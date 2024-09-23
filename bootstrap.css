@@ -1,0 +1,18 @@
+.btn-warning{
+    background-color: rgba(206, 28, 28, 0.616);
+    color: aliceblue;
+}
+
+.btn-info{
+    font-size: 20px;
+}
+
+.btn-secondary{
+    background-color:rgba(34, 206, 28, 0.527);
+    color:rgba(8, 0, 10, 0.527);
+}
+
+.dropdown-item{
+    color:rgba(17, 169, 240, 0.616);
+}
+
